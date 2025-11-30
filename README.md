@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I'm a **Full-Stack Engineer** who loves building end-to-end solutions — from beautiful, responsive frontends to powerful backend systems.  
+I also enjoy exploring **machine learning** and I'm currently leveling up my **cloud engineering** skills.
+
+
 <!--
 **yazy7991/yazy7991** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
