@@ -1,19 +1,16 @@
-## Hi there 👋
+## Hi! 👋
 
 I'm a **Full-Stack Engineer** who loves building end-to-end solutions — from beautiful, responsive frontends to powerful backend systems.  
 I also enjoy exploring **machine learning** and I'm currently leveling up my **cloud engineering** skills.
 
-Here are some ideas to get you started:
+Here are some things to know about me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: joshuatemitopejoseph@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-<!--
+- 🔭 I’m currently working on Full-stack applications and integrating ML models into real-world systems.
+- 🌱 I’m currently learning Cloud engineering — AWS fundamentals, serverless architecture, CI/CD workflows, and production deployments.
+- 👯 I’m looking to collaborate on Open-source projects in full-stack development, AI/ML, and cloud-native microservices.
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I enjoy breaking down complex problems into simple explanations — teaching helps me learn even more.
+
 ### 🛠 Tech Stack
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
@@ -27,7 +24,7 @@ Here are some ideas to get you started:
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
--->
+
 
 <!--
 **yazy7991/yazy7991** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
