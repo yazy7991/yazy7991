@@ -1,9 +1,6 @@
 ## Hi there 👋
 
-I'm a **Full-Stack Engineer** who loves building end-to-end solutions — from beautiful, responsive frontends to powerful backend systems.  
-I also enjoy exploring **machine learning** and I'm currently leveling up my **cloud engineering** skills.
-
-Here are some things to know about me:
+I'm a **Full-Stack Engineer** who loves building end-to-end solutions — from beautiful, responsive frontends to powerful backend systems. Here are a few things to know about me:
 
 - 🔭 I’m currently working on Full-stack applications and integrating ML models into real-world systems.
 - 🌱 I’m currently learning Cloud engineering — AWS fundamentals, serverless architecture, CI/CD workflows, and production deployments.
@@ -40,6 +37,8 @@ Here are some things to know about me:
 
 <!--
 **yazy7991/yazy7991** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I also enjoy exploring **machine learning** and I'm currently leveling up my **cloud engineering** skills.
+
 
 Here are some ideas to get you started:
 
