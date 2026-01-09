@@ -8,6 +8,8 @@ I'm a **Full-Stack Engineer** who loves building end-to-end solutions — from b
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy breaking down complex problems into simple explanations — teaching helps me learn even more.
 
+<!--
+
 ### 🛠 Tech Stack
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
@@ -33,7 +35,7 @@ I'm a **Full-Stack Engineer** who loves building end-to-end solutions — from b
 ![Pandas](https://img.shields.io/badge/Pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
-
+-->
 
 
 <!--
